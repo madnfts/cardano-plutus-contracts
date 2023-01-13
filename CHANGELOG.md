@@ -1,5 +1,5 @@
-# Revision history for s-NFT-contract-cardano
+# MADNFTs Plutus Smart Contracts 1.x
 
-## 0.1.0.0 -- YYYY-mm-dd
+## 0.0.1 - 13/01/2023 - @devhalls
 
-* First version. Released on an unsuspecting world.
+* Initial iternation.
